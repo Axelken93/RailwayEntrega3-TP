@@ -10,7 +10,7 @@ import { productMongodb, checkId, assignedNewId } from '../src/containers/contai
 import { admin } from'../utils/login.js'
 
 //Modo Cluster Hardcodeado
-const clusterMode = true
+const clusterMode = false
 
 if (clusterMode) {
     if (cluster.isMaster) {
