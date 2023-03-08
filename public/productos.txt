@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Cuadrado",
+    "timestamp": "no hay registros",
+    "descripcion": "Tiene cuatro lados iguales",
+    "codigo": "A22",
+    "Precio": 100,
+    "Stock": 10,
+    "Foto": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_crop_square_48px-512.png",
+    "id": 1
+  },
+  {
+    "nombre": "Triangulo",
+    "timestamp": "no hay registros",
+    "descripcion": "Tiene tres lados",
+    "codigo": "T33",
+    "Precio": 990,
+    "Stock": 5,
+    "Foto": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_crop_square_48px-512.png",
+    "id": 2
+  },
+  {
+    "nombre": "Rombo",
+    "timestamp": "no hay registros",
+    "descripcion": "Tiene seis lados",
+    "codigo": "R40",
+    "Precio": 700,
+    "Stock": 3,
+    "Foto": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_crop_square_48px-512.png",
+    "id": 3
+  },
+  {
+    "nombre": "Rectangulo",
+    "descripcion": "Tiene cuatro lados",
+    "codigo": "A44",
+    "Precio": 999,
+    "Stock": 0,
+    "Foto": "https://nuevafoto.com",
+    "timestamp": "1/12/2022, 20:20:19",
+    "id": 4
+  }
+]

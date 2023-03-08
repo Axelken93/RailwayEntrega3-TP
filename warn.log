@@ -1,0 +1,145 @@
+{"level":"warn","message":{"descripcion":"Ruta /home y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /home y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta / y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta / y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /hola y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /hola y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /login y metodo POST no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /home y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /home y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /login y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /login y metodo POST no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"warn","message":{"descripcion":"Ruta /faillogin y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /home y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"error","message":"Hubo un error al asignar nuevo ID: TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: ValidationError: id: Path `id` is required."}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"error","message":"Hubo un error al asignar nuevo ID: TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: ValidationError: id: Path `id` is required."}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"error","message":"Hubo un error al asignar nuevo ID: TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: ValidationError: id: Path `id` is required."}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/favicon.ico y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/socket.io.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /api/main.js y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA1GS y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA2VK y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA3k4 y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA4yb y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA6BF y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA7Ps y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA8eM y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvA9st y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvAB5I y metodo GET no implementado","error":-2}}
+{"level":"warn","message":{"descripcion":"Ruta /socket.io/?EIO=4&transport=polling&t=OQvACJs y metodo GET no implementado","error":-2}}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"level":"error","message":"No se pudo finalizar la compra -> Error:TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"level":"error","message":"No se pudo finalizar la compra -> Error:ReferenceError: sendTwilioSMS is not defined"}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}

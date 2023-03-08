@@ -1,0 +1,25 @@
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"error","message":"Hubo un error al asignar nuevo ID: TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: ValidationError: id: Path `id` is required."}
+{"level":"error","message":"ERROR: Usuario Inexistente"}
+{"level":"error","message":"Hubo un error al asignar nuevo ID: TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: ValidationError: id: Path `id` is required."}
+{"level":"error","message":"Hubo un error al asignar nuevo ID: TypeError: Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: ValidationError: id: Path `id` is required."}
+{"level":"error","message":"Hubo un error al intentar eliminar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"error","message":"Hubo un error al intentar guardar el objeto: MongoNotConnectedError: Client must be connected before running operations"}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"level":"error","message":"No se pudo finalizar la compra -> Error:TypeError: Cannot read properties of undefined (reading 'productos')"}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"level":"error","message":"No se pudo finalizar la compra -> Error:ReferenceError: sendTwilioSMS is not defined"}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}
+{"code":20003,"level":"error","moreInfo":"https://www.twilio.com/docs/errors/20003","status":401}

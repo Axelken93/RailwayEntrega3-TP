@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "timestamp": "no hay registros",
+    "productos": [
+      {
+        "nombre": "Triangulo",
+        "timestamp": "no hay registros",
+        "descripcion": "Tiene tres lados",
+        "codigo": "T33",
+        "Precio": 990,
+        "Stock": 5,
+        "Foto": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_crop_square_48px-512.png",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": "no hay registros2",
+    "productos": [
+      {
+        "nombre": "Triangulo",
+        "timestamp": "no hay registros",
+        "descripcion": "Tiene tres lados",
+        "codigo": "T33",
+        "Precio": 990,
+        "Stock": 5,
+        "Foto": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_crop_square_48px-512.png",
+        "id": 2
+      },
+      {
+        "nombre": "Cuadrado",
+        "timestamp": "no hay registros",
+        "descripcion": "Tiene cuatro lados iguales",
+        "codigo": "A22",
+        "Precio": 100,
+        "Stock": 10,
+        "Foto": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_crop_square_48px-512.png",
+        "id": 1
+      }
+    ]
+  }
+]
